@@ -1,0 +1,1420 @@
+[
+  {
+    "page_content": "گفتار ۱ - یاخته‌های بافت عصبی",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "category_depth": 0,
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "Title",
+      "element_id": "51f00a126d76fd89838939f1b04a88c1"
+    }
+  },
+  {
+    "page_content": "می‌دانید بافت عصبی از یاخته‌های عصبی و یاخته‌های پشتیبان (نوروگلیاها) تشکیل‌شده است. شکل ۱، یک یاختۀ عصبی را نشان می‌دهد. این یاختۀ عصبی از چه بخش‌هایی تشکیل‌شده است؟",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "emphasized_text_contents": [
+        "یاخته‌های عصبی",
+        "یاخته‌های پشتیبان (نوروگلیاها)"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b"
+      ],
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "parent_id": "51f00a126d76fd89838939f1b04a88c1",
+      "category": "NarrativeText",
+      "element_id": "48865a81fd2e75b7f7f97899f343365f"
+    }
+  },
+  {
+    "page_content": "یاخته‌های عصبی سه عملکرد دارند: این یاخته‌ها تحریک‌پذیرند و پیام عصبی تولید می‌کنند؛ آن‌ها این پیام را هدایت و به یاخته‌های دیگر منتقل می‌کنند.",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "emphasized_text_contents": [
+        "تحریک‌پذیر",
+        "پیام عصبی",
+        "هدایت",
+        "منتقل"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b",
+        "b",
+        "b"
+      ],
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "parent_id": "51f00a126d76fd89838939f1b04a88c1",
+      "category": "NarrativeText",
+      "element_id": "e816e244bac1a2de2d246a2474a85010"
+    }
+  },
+  {
+    "page_content": "دارینه (دندریت) رشته‌ای است که پیام‌ها را دریافت و به جسم یاختۀ عصبی وارد می‌کند. آسه (آکسون) رشته‌ای است که پیام عصبی را از جسم یاختۀ عصبی تا انتهای خود که پایانۀ آسه نام دارد، هدایت می‌کند. پیام عصبی از محل پایانۀ آسه یک یاختۀ عصبی به یاختۀ دیگر منتقل می‌شود. جسم یاخته‌ای محل قرار گرفتن هسته و انجام سوخت‌وساز یاخته‌های عصبی است و می‌تواند پیام نیز دریافت کند. یاختۀ عصبی که در شکل ۱ می‌بینید، پوششی به نام غلاف میلین دارد. غلاف میلین، رشته‌های آسه و دارینۀ بسیاری از یاخته‌های عصبی را می‌پوشاند و آن‌ها را عایق‌بندی می‌کند. غلاف میلین پیوسته نیست و در بخش‌هایی از رشته قطع می‌شود. این بخش‌ها را گره رانویه می‌نامند که با نقش آن‌ها در ادامۀ درس، آشنا خواهید شد.",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "emphasized_text_contents": [
+        "دارینه (دندریت)",
+        "آسه (آكسون)",
+        "پایانۀ آسه",
+        "غلاف میلین",
+        "گره رانویه"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b",
+        "b",
+        "b",
+        "b"
+      ],
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "parent_id": "51f00a126d76fd89838939f1b04a88c1",
+      "category": "NarrativeText",
+      "element_id": "31fdc42484c80fe34699b4bf67f4f33e"
+    }
+  },
+  {
+    "page_content": "",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "image_url": "./image-1.png",
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "Image",
+      "element_id": "7674ccc5e6e09069e585af8ae8e14748"
+    }
+  },
+  {
+    "page_content": "شکل ۱ - یاختۀ عصبی",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "UncategorizedText",
+      "element_id": "5ad8163ac952665693d0f724de4d44a7"
+    }
+  },
+  {
+    "page_content": "غلاف میلین را یاخته‌های پشتیبان بافت عصبی می‌سازند. شکل ۲ را ببینید، یاختۀ پشتیبان به دور رشتۀ عصبی می‌پیچد و غلاف میلین را به وجود می‌آورد.",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "NarrativeText",
+      "element_id": "de359f4abebc1452342264b3424a8592"
+    }
+  },
+  {
+    "page_content": "تعداد یاخته‌های پشتیبان چند برابر یاخته‌های عصبی است و انواع گوناگونی دارند. این یاخته‌ها داربست‌هایی را برای استقرار یاخته‌های عصبی ایجاد می‌کنند؛ آن‌ها در دفاع از یاخته‌های عصبی و حفظ هم‌ایستایی مایع اطراف آن‌ها (مثل حفظ مقدار طبیعی یون‌ها) نیز نقش دارند.",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "NarrativeText",
+      "element_id": "465da4d5d083e3f12f772d1aee76571b"
+    }
+  },
+  {
+    "page_content": "",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "image_url": "./image-2.png",
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "Image",
+      "element_id": "d8a92dc152ae7db45e030d1db0813d06"
+    }
+  },
+  {
+    "page_content": "شکل ۲ - الف) غلاف میلین ب) چگونگی ساخت آن",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "NarrativeText",
+      "element_id": "0b2f1762b939e7f2ffc9ec7c8c8652ac"
+    }
+  },
+  {
+    "page_content": "انواع یاخته‌های عصبی",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "emphasized_text_contents": [
+        "انواع یاخته‌های عصبی"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "UncategorizedText",
+      "element_id": "5e0989e118b95e9e8ccd0b0631b578af"
+    }
+  },
+  {
+    "page_content": "شکل ۳، انواع یاخته‌های عصبی را نشان می‌دهد. یاخته‌های عصبی حسی پیام‌ها را به سوی بخش مرکزی دستگاه عصبی (مغز و نخاع) می‌آورند. یاخته‌های عصبی حرکتی پیام‌ها را از بخش مرکزی دستگاه عصبی به سوی اندام‌ها (مانند ماهیچه‌ها) می‌برند. نوع سوم یاخته‌های عصبی شکل ۳، یاخته‌های عصبی رابط‌اند که در مغز و نخاع قرار دارند. این یاخته‌ها ارتباط لازم بین یاخته‌های عصبی را فراهم می‌کنند. هر سه نوع یاخته عصبی می‌توانند میلین‌دار یا بدون میلین باشند.",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "emphasized_text_contents": [
+        "یاخته‌های عصبی‌ حسی",
+        "یاخته‌های عصبی حرکتی",
+        "یاخته‌های عصبی رابط‌"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b",
+        "b"
+      ],
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "NarrativeText",
+      "element_id": "808748c50e3cb65efa0c9d537d7f023f"
+    }
+  },
+  {
+    "page_content": "واژه‌شناسی",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "UncategorizedText",
+      "element_id": "1687199fa75a21fe4b9ec12a4cfa0358"
+    }
+  },
+  {
+    "page_content": "آسه (axon / آکسون) هر دو کلمه به معنی محور است. آسه از کلمه آس گرفته‌شده است که به محور سنگ آسیا گفته می‌شود.",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "NarrativeText",
+      "element_id": "1c89a23cdd00a9286bbcb6fbe8f36431"
+    }
+  },
+  {
+    "page_content": "دارینه (dendrite / دندریت) هر دو کلمه به معنی درخت و درخت‌وار است. دارینه از کلمه دار به معنی درخت و (ینه) که پسوند شباهت است ساخته‌شده که در کل، آنچه شبیه درخت است معنی می‌دهد.",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "NarrativeText",
+      "element_id": "68e694a72bb0cc05f1618c8e95068501"
+    }
+  },
+  {
+    "page_content": "",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "image_url": "./image-3.png",
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "Image",
+      "element_id": "70778cb7a462363f6b7c449b7831963b"
+    }
+  },
+  {
+    "page_content": "شکل ۳ - انواع یاخته‌های عصبی",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "UncategorizedText",
+      "element_id": "7d3040d73a6feb42c3117a0c3b6aad8a"
+    }
+  },
+  {
+    "page_content": "فعالیت ۱",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "emphasized_text_contents": [
+        "فعّالیت ۱"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "UncategorizedText",
+      "element_id": "ac2ac3094f6b021d62b0a5326d7bd32b"
+    }
+  },
+  {
+    "page_content": "ساختار و کار سه نوع یاختۀ عصبی را که در شکل ۳ می‌بینید، مقایسه کنید.",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "NarrativeText",
+      "element_id": "cdf5705d6ec94e6c8d04fac7e57790b1"
+    }
+  },
+  {
+    "page_content": "پیام عصبی چگونه ایجاد می‌شود؟",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "emphasized_text_contents": [
+        "پیام عصبی چگونه ایجاد می‌شود؟"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "UncategorizedText",
+      "element_id": "ce09108ad738ecbdf3e94fddb384f2ce"
+    }
+  },
+  {
+    "page_content": "پیام عصبی در اثر تغییر مقدار یون‌ها در دو سوی غشای یاختۀ عصبی به وجود می‌آید. از آنجا که مقدار یون‌ها در دو سوی غشا، یکسان نیستند، بار الکتریکی دو سوی غشای یاختۀ عصبی، متفاوت است و در نتیجه بین دو سوی آن، اختلاف پتانسیل الکتریکی وجود دارد. شکل ۴، اندازه‌گیری این اختلاف پتانسیل را نشان می‌دهد.",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "NarrativeText",
+      "element_id": "885c197eb3d9c71cd7f35e1fea86a8bf"
+    }
+  },
+  {
+    "page_content": "",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "image_url": "./image-4.png",
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "Image",
+      "element_id": "5b94d40722c5ca8548f3bbe7c2346a9d"
+    }
+  },
+  {
+    "page_content": "شکل ۴ - اندازه‌گیری اختلاف پتانسیل الکتریکی دو سوی غشای یاختۀ عصبی",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "UncategorizedText",
+      "element_id": "f57e522b11b18848620a8a8801de8352"
+    }
+  },
+  {
+    "page_content": "پتانسیل آرامش: وقتی یاختۀ عصبی فعالیت عصبی ندارد (حالت آرامش)، در دو سوی غشای آن اختلاف پتانسیلی در حدود − ۷۰ میلی‌ولت برقرار است (شکل ۵). این اختلاف پتانسیل را پتانسیل آرامش می‌نامند. چگونه این اختلاف پتانسیل ایجاد می‌شود؟ برای پاسخ به این پرسش، دربارۀ یاخته‌های عصبی باید بیشتر بدانیم.",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "emphasized_text_contents": [
+        "پتانسیل آرامش:",
+        "پتانسیل آرامش"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b"
+      ],
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "NarrativeText",
+      "element_id": "d7ad39245f74dca821309c62d9ef9865"
+    }
+  },
+  {
+    "page_content": "",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "image_url": "./image-5.png",
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "Image",
+      "element_id": "26247b29579aeada87c9ffd2e0e359d6"
+    }
+  },
+  {
+    "page_content": "شکل ۵ - پتانسیل آرامش. در شکل، یون‌های پتاسیم در بیرون و یون‌های سدیم در درون نشان داده نشده‌اند.",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "NarrativeText",
+      "element_id": "af15ee6fc65cbedf233839b6f8956ba0"
+    }
+  },
+  {
+    "page_content": "در حالت آرامش، مقدار یون‌های سدیم در بیرون غشای یاخته‌های عصبی زنده از داخل آن بیشتر است و در مقابل، مقدار یون‌های پتاسیم درون‌یاخته، از بیرون آن بیشتر است. در غشای یاخته‌های عصبی، مولکول‌های پروتئینی وجود دارند که به عبور یون‌های سدیم و پتاسیم از غشا کمک می‌کنند.",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "NarrativeText",
+      "element_id": "c413c85fd34fe8d33fcdd39004462bec"
+    }
+  },
+  {
+    "page_content": "یکی از این پروتئین‌ها، کانال‌های نشتی هستند که یون‌ها می‌توانند به روش انتشار تسهیل شده از آن‌ها عبور کنند (شکل ۶ -الف). از راه این کانال‌ها، یون‌های پتاسیم، خارج و یون‌های سدیم به درون یاختۀ عصبی وارد می‌شوند. تعداد یون‌های پتاسیم خروجی بیشتر از یون‌های سدیم ورودی است؛ زیرا غشا به این یون، نفوذپذیری بیشتری دارد.",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "emphasized_text_contents": [
+        "کانال‌های نشتی"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "NarrativeText",
+      "element_id": "785127a7bdf83d37fae0f4f5c091c2eb"
+    }
+  },
+  {
+    "page_content": "پمپ سدیم - پتاسیم، پروتئین دیگری است که در سال گذشته با آن آشنا شدید. در هر بار فعالیت این پمپ، سه یون سدیم از یاختۀ عصبی خارج و دو یون پتاسیم وارد آن می‌شوند. این پمپ از انرژی مولکول ATP استفاده می‌کند (شکل ۶ -ب).",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "emphasized_text_contents": [
+        "پمپ سدیم - پتاسیم"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "NarrativeText",
+      "element_id": "d7fbe869fd757312ab23c03a931dc421"
+    }
+  },
+  {
+    "page_content": "",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "image_url": "./image-6.png",
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "Image",
+      "element_id": "e411c8e17e9b9efb19fc394f4feaca78"
+    }
+  },
+  {
+    "page_content": "شکل ۶ - الف) کانال نشتی که عبور یون‌های پتاسیم از آن نشان داده‌شده است. ب) چگونگی کار پمپ سدیم- پتاسیم",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "NarrativeText",
+      "element_id": "8b354ee2d57ae8b14e909ec35226d756"
+    }
+  },
+  {
+    "page_content": "فعالیت ۲",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "emphasized_text_contents": [
+        "فعّالیت ۲"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "UncategorizedText",
+      "element_id": "c115e40806f6b8dd7c8d78968f503369"
+    }
+  },
+  {
+    "page_content": "در گروه خود دربارۀ پرسش‌های زیر گفت‌وگو و نتیجه را به کلاس گزارش کنید.",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "NarrativeText",
+      "element_id": "c3c92104b1462bd0526f9e78a26511f5"
+    }
+  },
+  {
+    "page_content": "۱ - کار پمپ سدیم - پتاسیم و کانال‌های نشتی را با هم مقایسه کنید.",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "UncategorizedText",
+      "element_id": "a0debdc1791e2e65c24f1e9cb037194e"
+    }
+  },
+  {
+    "page_content": "۲ - چرا در حالت آرامش، بار مثبت درون‌یاخته‌های عصبی از بیرون آن‌ها کمتر است؟",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "NarrativeText",
+      "element_id": "f22fee5d0fe1c1f0383e0e45a1537e3c"
+    }
+  },
+  {
+    "page_content": "پتانسیل عمل: دانستید که در حالت آرامش، بار مثبت درون یاختۀ عصبی از بیرون آن کمتر است. وقتی یاختۀ عصبی تحریک می‌شود، در محل تحریک، اختلاف پتانسیل دو سوی غشای آن به‌طور ناگهانی تغییر می‌کند؛ داخل یاخته از بیرون آن، مثبت‌تر می‌شود و پس از زمان کوتاهی، اختلاف پتانسیل دو سوی غشا، دوباره به حالت آرامش برمی‌گردد. این تغییر را پتانسیل عمل می‌نامند. هنگام پتانسیل عمل، در یاختۀ عصبی چه اتفاقی می‌افتد؟",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "emphasized_text_contents": [
+        "پتانسیل عمل:",
+        "پتانسیل عمل"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b"
+      ],
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "NarrativeText",
+      "element_id": "f6e4454e91d81cdf674d4955eb024e80"
+    }
+  },
+  {
+    "page_content": "در غشای یاخته‌های عصبی، پروتئین‌هایی به نام کانال‌های دریچه‌دار وجود دارند که با تحریک یاختۀ عصبی باز می‌شوند و یون‌ها از آن‌ها عبور می‌کنند. وقتی غشای یاخته تحریک می‌شود، ابتدا کانال‌های دریچه‌دار سدیمی باز می‌شوند و یون‌های سدیم فراوانی وارد یاخته و بار الکتریکی درون آن، مثبت‌تر می‌شود. پس از زمان کوتاهی این کانال‌ها بسته می‌شوند و کانال‌های دریچه‌دار پتاسیمی باز و یون‌های پتاسیم خارج می‌شوند. این کانال‌ها هم پس از مدت کوتاهی بسته می‌شوند (شکل ۷). به این ترتیب، دوباره پتانسیل غشا به پتانسیل آرامش (− ۷۰) برمی‌گردد.",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "emphasized_text_contents": [
+        "کانال‌های دریچه‌دار",
+        "کانال‌های دریچه‌دار سدیمی",
+        "کانال‌های دریچه‌دار",
+        "پتاسیمی"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b",
+        "b",
+        "b"
+      ],
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "NarrativeText",
+      "element_id": "6f260869d89163b7e962060843b43d80"
+    }
+  },
+  {
+    "page_content": "فعالیت بیشتر پمپ سدیم - پتاسیم موجب می‌شود غلظت یون‌های سدیم و پتاسیم در دو سوی غشا دوباره به حالت آرامش بازگردد.",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "NarrativeText",
+      "element_id": "3eea8ca607c15631c5a8f186909c7822"
+    }
+  },
+  {
+    "page_content": "بیشتر بدانید",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "UncategorizedText",
+      "element_id": "d3dec721790514b7496a9c258ce555ee"
+    }
+  },
+  {
+    "page_content": "در دهۀ ۱۹۵۰ دو دانشمند به نام‌های هاجکین ۱ و هاکسلی ۲ برای بررسی تغییرات الکتریکی غشای یاختۀ عصبی از آسۀ قطور نرم‌تن مرکب استفاده کردند. آنان پتانسیل الکتریکی غشای آسه را اندازه‌گیری و ترکیب شیمیایی درون آسه و اثر یون‌های سدیم و پتاسیم بر فعالیت‌های الکتریکی آن را نیز بررسی کردند. حاصل کار آن‌ها یافته‌های جدیدی دربارۀ عملکرد غشای تحریک‌پذیر یاختۀ عصبی به دنیای علم عرضه و جایزه نوبل رشته فیزیولوژی- پزشکی سال ۱۹۶۳ را نصیب این دانشمندان کرد.",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "link_texts": [
+        "1",
+        "2"
+      ],
+      "link_urls": [
+        "#endnote-1569066463458",
+        "#endnote-1569066499698"
+      ],
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "NarrativeText",
+      "element_id": "0d139c23dba09cc8f6a30cc9d51a0116"
+    }
+  },
+  {
+    "page_content": "",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "image_url": "./image-7.png",
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "Image",
+      "element_id": "5211fcf98bb8e2b16fe6a92a027d2412"
+    }
+  },
+  {
+    "page_content": "شکل ۷ - چگونگی ایجاد پتانسیل عمل؛ در شکل یون‌های پتاسیم بیرون و یون‌های سدیم درون یاخته، نشان داده نشده‌اند.",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "NarrativeText",
+      "element_id": "d01d47f0c48a485323700e2b3ae53d8c"
+    }
+  },
+  {
+    "page_content": "فعالیت ۳",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "UncategorizedText",
+      "element_id": "ac9eea6102862517400dac907c38c884"
+    }
+  },
+  {
+    "page_content": "وضعیت کانال‌های غشای یاختۀ عصبی را در ۴ مرحلۀ شکل ۷ مقایسه کنید.",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "NarrativeText",
+      "element_id": "0d52f64d75e5ac1a552ed5fcc34d168f"
+    }
+  },
+  {
+    "page_content": "وقتی پتانسیل عمل در یک نقطه از یاختۀ عصبی ایجاد می‌شود، نقطه به نقطه پیش می‌رود تا به انتهای رشتۀ عصبی برسد. این جریان را پیام عصبی می‌نامند (شکل ۸). رشته عصبی آسه یا دارینۀ بلند است.",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "emphasized_text_contents": [
+        "پیام عصبی"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "NarrativeText",
+      "element_id": "3cec5aea5de2c1b98c66cd041a70fb14"
+    }
+  },
+  {
+    "page_content": "",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "image_url": "./image-8.png",
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "Image",
+      "element_id": "e050b72b09c392290ffec83bd1942425"
+    }
+  },
+  {
+    "page_content": "شکل ۸ - هدایت پیام عصبی",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "UncategorizedText",
+      "element_id": "da17528852c185b147cc306ba0269755"
+    }
+  },
+  {
+    "page_content": "گره‌های رانویه چه نقشی دارند؟",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "emphasized_text_contents": [
+        "گره‌های رانویه چه نقشی دارند؟"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "UncategorizedText",
+      "element_id": "2349f19adc98321ec46147543c41ae0a"
+    }
+  },
+  {
+    "page_content": "هدایت پیام عصبی در رشته‌های عصبی میلین‌دار از رشته‌های بدون میلین هم‌قطر سریع‌تر است؛ درحالی‌که میلین عایق است و از عبور یون‌ها از غشا جلوگیری می‌کند. دانستید در یاخته‌های عصبی میلین‌دار، گره‌های رانویه وجود دارد. در محل این گره‌ها، میلین وجود ندارد و رشتۀ عصبی با محیط بیرون از یاخته ارتباط دارد. بنابراین، در این گره‌ها پتانسیل عمل ایجاد می‌شود و پیام عصبی درون رشتۀ عصبی از یک گره به گره دیگر هدایت می‌شود. در این حالت به نظر می‌رسد پیام عصبی از یک گره به گره دیگر می‌جهد. به همین علت، این هدایت را هدایت جهشی می‌نامند (شکل ۹). در ماهیچه‌های اسکلتی سرعت ارسال پیام اهمیت زیادی دارد. بنابراین، نورون‌های حرکتی آن‌ها میلین‌دار است. کاهش یا افزایش میزان میلین به بیماری منجر می‌شود؛ مثلا در بیماری‌ام. اس (مالتیپل اسکلروزیس ۳) یاخته‌های پشتیبانی که در سیستم عصبی مرکزی میلین می‌سازند، از بین می‌روند. در نتیجه ارسال پیام‌های عصبی به‌درستی انجام نمی‌شود. بینایی و حرکت، مختل و فرد دچار بی‌حسی و لرزش می‌شود.",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "emphasized_text_contents": [
+        "هدایت جهشی",
+        "ام. اس (مالتیپل اسکلروزیس",
+        ")"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b",
+        "b"
+      ],
+      "link_texts": [
+        "3"
+      ],
+      "link_urls": [
+        "#endnote-15b3d2f8dd5211e9aeee0a586460031e"
+      ],
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "NarrativeText",
+      "element_id": "4d7b6d4016c40efe887843de8dad7def"
+    }
+  },
+  {
+    "page_content": "",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "image_url": "./image-9.png",
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "Image",
+      "element_id": "b6fa5a8d0871bdcbe94cbf83a5aa07f5"
+    }
+  },
+  {
+    "page_content": "شکل ۹ - هدایت جهشی در نورون میلین‌دار",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "NarrativeText",
+      "element_id": "0097b63608cb4f2ae2e38ab524bdd205"
+    }
+  },
+  {
+    "page_content": "بیشتر بدانید",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "UncategorizedText",
+      "element_id": "f3a4e52bdb68b33e6732fbc92fa3d1fe"
+    }
+  },
+  {
+    "page_content": "سرعت هدایت پیام در رشته‌های عصبی از ۰ / ۲ m / s در رشته‌های نازک بدون میلین تا ۱۲۰ m / s در رشته‌های میلین‌دار قطور متفاوت است.",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "UncategorizedText",
+      "element_id": "ca3a0f452284e15944ca241cb9ada0e6"
+    }
+  },
+  {
+    "page_content": "فعالیت ۴",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "UncategorizedText",
+      "element_id": "c44b7a8555a189f58956914591d23a29"
+    }
+  },
+  {
+    "page_content": "پژوهشگران بر این باورند که در گره‌های رانویه، تعداد زیادی کانال دریچه‌دار وجود دارد، ولی در فاصلۀ بین گره‌ها، این کانال‌ها وجود ندارند. این موضوع با هدایت جهشی چه ارتباطی دارد؟",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "NarrativeText",
+      "element_id": "01daafcbbddabc502620a9a2b57fc08b"
+    }
+  },
+  {
+    "page_content": "بیشتر بدانید",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "UncategorizedText",
+      "element_id": "85132dbd73280ddeaad7a4dc1d75bd58"
+    }
+  },
+  {
+    "page_content": "برخی مواد می‌توانند از باز شدن کانال‌های دریچه‌دار سدیمی و درنتیجه هدایت پیام عصبی، جلوگیری کنند. این مواد، بی‌حس‌کننده‌های موضعی نام دارند.",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "NarrativeText",
+      "element_id": "d9ee1213d3ba931e6be3816245312239"
+    }
+  },
+  {
+    "page_content": "یاخته‌های عصبی، پیام عصبی را منتقل می‌کنند",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "emphasized_text_contents": [
+        "یاخته‌های عصبی، پیام عصبی را منتقل می‌کنند"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "UncategorizedText",
+      "element_id": "caf778e997110dc297c6368536914037"
+    }
+  },
+  {
+    "page_content": "دانستید پیام عصبی در طول آسه هدایت می‌شود تا به پایانۀ آن برسد. همان‌طور که در شکل ۱۰ می‌بینید، یاخته‌های عصبی به یکدیگر نچسبیده‌اند؛ پس چگونه پیام عصبی از یک یاختۀ عصبی به یاختۀ دیگر منتقل می‌شود؟",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "NarrativeText",
+      "element_id": "83d761ec5c0674c2a242118a4ccbaa87"
+    }
+  },
+  {
+    "page_content": "یاخته‌های عصبی با یکدیگر ارتباط ویژه‌ای به نام همایه (سیناپس) برقرار می‌کنند. بین این یاخته‌ها در محل همایه، فضایی به نام فضای همایه‌ای وجود دارد. برای انتقال پیام از یاختۀ عصبی انتقال‌دهنده یا یاختۀ عصبی پیش‌همایه‌ای، ماده‌ای به نام ناقل عصبی در فضای همایه آزاد می‌شود. این ماده بر یاختۀ دریافت‌کننده، یعنی یاختۀ پس‌همایه‌ای اثر می‌کند. ناقل عصبی در یاخته‌های عصبی ساخته و درون‌ریز کیسه‌ها ذخیره می‌شود. این کیسه‌ها در طول آسه هدایت می‌شوند تا به پایانۀ آن برسند. وقتی پیام عصبی به پایانۀ آسه می‌رسد، این کیسه‌ها با برون‌رانی، ناقل را در فضای همایه آزاد می‌کنند (شکل ۱۰). یاخته‌های عصبی با یاخته‌های ماهیچه‌ای نیز همایه دارند و با ارسال پیام موجب انقباض آن‌ها می‌شوند.",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "emphasized_text_contents": [
+        "همایه (سیناپس)",
+        "فضای همایه‌ای",
+        "پیش‌همایه‌ای",
+        "ناقل عصبی",
+        "پس‌همایه‌ای"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b",
+        "b",
+        "b",
+        "b"
+      ],
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "NarrativeText",
+      "element_id": "5d89d9b95306223026f8da5b044baad9"
+    }
+  },
+  {
+    "page_content": "",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "image_url": "./image-10.png",
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "Image",
+      "element_id": "0b6cd57511a7a221b0f09341712a004e"
+    }
+  },
+  {
+    "page_content": "شکل ۱۰ - الف) تصویر همایه با میکروسکوپ الکترونی",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "UncategorizedText",
+      "element_id": "344daed83778af4e520fb31c36511285"
+    }
+  },
+  {
+    "page_content": "ب) آزاد شدن ناقل عصبی و اثر آن بر یاختۀ پس همایه‌ای",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "NarrativeText",
+      "element_id": "7212c44ce504b33b409974452f6738ec"
+    }
+  },
+  {
+    "page_content": "واژه‌شناسی",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "UncategorizedText",
+      "element_id": "e6c5ea88c16839b4bc60b64ccb18f768"
+    }
+  },
+  {
+    "page_content": "همایه (synapse / سیناپس) هر دو کلمه به معنای به هم پیوستن و به هم متصل شدن هستند. همایه از فعل به هم آمدن و در معنای به هم پیوستن ساخته‌شده است.",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "NarrativeText",
+      "element_id": "e755edd3723a569a5fa8197550b646d4"
+    }
+  },
+  {
+    "page_content": "ناقل عصبی پس از رسیدن به غشای یاختۀ پس همایه‌ای، به پروتئینی به نام گیرنده متصل می‌شود. این پروتئین همچنین کانالی است که با اتصال ناقل عصبی به آن باز می‌شود. به این ترتیب، ناقل عصبی با تغییر نفوذپذیری غشای یاختۀ پس همایه‌ای به یون‌ها، پتانسیل الکتریکی این یاخته را تغییر می‌دهد. براساس اینکه ناقل عصبی تحریک‌کننده یا بازدارنده باشد، یاخته پس همایه‌ای تحریک، یا فعالیت آن مهار می‌شود.",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "emphasized_text_contents": [
+        "گیرنده"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "NarrativeText",
+      "element_id": "22d4e48753e6d7cd7f71ee5ad340520d"
+    }
+  },
+  {
+    "page_content": "پس از انتقال پیام، مولکول‌های ناقل باقی‌مانده، باید از فضای همایه‌ای تخلیه شوند تا از انتقال بیش از حد پیام جلوگیری و امکان انتقال پیام‌های جدید فراهم شود. این کار با جذب دوبارۀ ناقل به یاختۀ پیش همایه‌ای انجام می‌شود، همچنین آنزیم‌هایی ناقل عصبی را تجزیه می‌کنند. تغییر در میزان طبیعی ناقل‌های عصبی از دلایل بیماری و اختلال در کار دستگاه عصبی است.",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "NarrativeText",
+      "element_id": "41517eb557964dd648619dd1bc5ea923"
+    }
+  },
+  {
+    "page_content": "بیشتر بدانید",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "UncategorizedText",
+      "element_id": "18686af98aa73f8dac3f144c560012bd"
+    }
+  },
+  {
+    "page_content": "در بخش‌های مختلف دستگاه عصبی، مواد گوناگونی به‌عنوان ناقل عصبی فعالیت می‌کنند. دوپامین، سروتونین، هیستامین، آمینواسیدهایی مانند گاما آمینو بوتریک اسید، گلوتامات، گلایسین و گاز نیتریک اکساید از این موادند. معمولا گاما آمینوبوتریک اسید و گلایسین، مهارکننده و گلوتامات تحریک‌کننده‌اند.",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "NarrativeText",
+      "element_id": "228d384d72d1328a34ad45fb29868ded"
+    }
+  },
+  {
+    "page_content": "بیشتر بدانید",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "UncategorizedText",
+      "element_id": "f70524006a9e335ac370f5b67c8e5462"
+    }
+  },
+  {
+    "page_content": "رعشه (پارکینسون): در این بیماری، یاخته‌های بخشی از مغز که ناقل عصبی دوپامین ترشح می‌کنند، تخریب می‌شوند. در نتیجه ماهیچه‌های بدن سفت و حرکات کند می‌شود؛ دست و پای فرد در حالت استراحت لرزش دارند. برای بهبود اختلال‌های حرکتی این بیماری، دارویی تجویز می‌کنند که در مغز به ناقل عصبی دوپامین تبدیل می‌شود.",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "emphasized_text_contents": [
+        "رَعشه (پارکینسون):"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "NarrativeText",
+      "element_id": "c0b6d7173744eff9f1c0e1601be6b82b"
+    }
+  },
+  {
+    "page_content": "آلزایمر: بیماری آلزایمر یک نوع اختلال پیش‌رونده، تحلیل‌برنده و کشندۀ مغز است که به زوال عقل و ناتوانی فرد در انجام فعالیت‌های روزانه منجر می‌شود. در این بیماری، یاخته‌های عصبی مغز بر اثر تجمع نوعی پروتئین تخریب می‌شوند و میزان ناقل عصبی استیل کولین کاهش می‌یابد. فراموشی، ناتوانی در تکلم، اختلال در حس به‌ویژه در بینایی و راه رفتن، از عوارض بیماری آلزایمر است. با پیشرفت بیماری، فرد نیازمند مراقبت مداوم خواهد بود. تجویز دارو می‌تواند پیشرفت بیماری را آهسته کند. فعالیت بدنی و ورزش منظم، تغذیه سالم، معاشرت با دیگران، فعالیت‌های فکری مانند حفظ کردن شعر، آموختن یک‌زبان جدید به پیشگیری از بیماری آلزایمر کمک می‌کند.",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "emphasized_text_contents": [
+        "آلزایمر:"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "NarrativeText",
+      "element_id": "98b6f74787d00c070c704128a4c6badc"
+    }
+  },
+  {
+    "page_content": "ثبت نوار مغزی",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "emphasized_text_contents": [
+        "ثبت نوار مغزی"
+      ],
+      "emphasized_text_tags": [
+        "b"
+      ],
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "UncategorizedText",
+      "element_id": "13c2045b1324036b5791b48234adea2c"
+    }
+  },
+  {
+    "page_content": "(الکتروآنسفالوگرافی ۴): فعالیت الکتریکی مغز را می‌توان با دستگاه الکتروآنسفالوگراف ثبت و بررسی کرد. الکترودهای دستگاه را به پوست سر متصل می‌کنند. جریان الکتریکی مغز به شکل منحنی‌های نوار مغز (الکتروآنسفالوگرام) روی نوار کاغذی، یا صفحه نمایش دستگاه ثبت می‌شود. متخصصان از این منحنی‌ها برای بررسی فعالیت‌های مغز و تشخیص بیماری‌های آن استفاده می‌کنند.",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "emphasized_text_contents": [
+        "(الکتروآنسفالوگراف",
+        "ی",
+        "4",
+        "):"
+      ],
+      "emphasized_text_tags": [
+        "b",
+        "b",
+        "b",
+        "b"
+      ],
+      "link_texts": [
+        "4"
+      ],
+      "link_urls": [
+        "#endnote-1569066969311"
+      ],
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "NarrativeText",
+      "element_id": "690c453ce80b46b749ecff0e8c4e956c"
+    }
+  },
+  {
+    "page_content": "Alan Lloyd Hodgkin",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "category_depth": 1,
+      "link_texts": [
+        "Alan Lloyd Hodgkin"
+      ],
+      "link_urls": [
+        "#backlink-1569066463458"
+      ],
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "ListItem",
+      "element_id": "033681ae7265160038f2fb0c81836ce9"
+    }
+  },
+  {
+    "page_content": "Andrew Fielding Huxley",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "category_depth": 1,
+      "link_texts": [
+        "Andrew Fielding Huxley"
+      ],
+      "link_urls": [
+        "#backlink-1569066499698"
+      ],
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "ListItem",
+      "element_id": "bbb0230ef9f1af4d1e257a20ac664c20"
+    }
+  },
+  {
+    "page_content": "Multiple Sclerosis",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "category_depth": 1,
+      "link_texts": [
+        "Multiple Sclerosis"
+      ],
+      "link_urls": [
+        "#backlink-15b3d2f8dd5211e9aeee0a586460031e"
+      ],
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "ListItem",
+      "element_id": "338ae54b4bbe9a80f6877fa700d9c2ca"
+    }
+  },
+  {
+    "page_content": "Electro Encephalo Graphy (EEG)",
+    "metadata": {
+      "source": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2/content.html",
+      "category_depth": 1,
+      "link_texts": [
+        "Electro Encephalo Graphy (EEG)"
+      ],
+      "link_urls": [
+        "#backlink-1569066969311"
+      ],
+      "last_modified": "2026-04-18T02:11:40",
+      "languages": [
+        "fas"
+      ],
+      "file_directory": "/Users/mohammadreza/Documents/code/personal/rag-lab/document_loader/data/chapter_2",
+      "filename": "content.html",
+      "filetype": "text/html",
+      "category": "ListItem",
+      "element_id": "5b75f2a85e541ffc5dc017e56f531931"
+    }
+  }
+]
