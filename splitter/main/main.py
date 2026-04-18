@@ -9,10 +9,10 @@ from langchain_core.documents import Document
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent.parent))
 from embedding import CustomGapGPTEmbeddingLangchain
 
-# Constants
-DATA_DIR = Path(__file__).resolve().parent.parent / "data" / "chapter_2"
-INPUT_JSON = DATA_DIR / "doc-loader-main.json"
-OUTPUT_JSON = DATA_DIR / "split-docs-main.json"
+# Constants (three parents: splitter/main/main.py -> repo root)
+DATA_DIR = Path(__file__).resolve().parent.parent.parent / "data"
+INPUT_JSON = DATA_DIR / "load" / "chapter_2" / "doc-loader-main.json"
+OUTPUT_JSON = DATA_DIR / "prepare" / "chapter_2" / "split-docs-main.json"
 
 # Load docs from previous step
 print("Loading normalized docs...")
@@ -41,6 +41,7 @@ print(f"Split into {len(split_docs)} chunk(s).")
 # Save
 print("Saving split docs...")
 output = [{"page_content": d.page_content, "metadata": d.metadata} for d in split_docs]
+OUTPUT_JSON.parent.mkdir(parents=True, exist_ok=True)
 with OUTPUT_JSON.open("w", encoding="utf-8") as f:
     json.dump(output, f, ensure_ascii=False, indent=2)
 
