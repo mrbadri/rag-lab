@@ -30,6 +30,29 @@ llm = ChatOpenAI(  # pyright: ignore[reportCallIssue]
 NEO4J_URL      = "bolt://45.90.74.242:7687"
 NEO4J_USERNAME = "neo4j"
 NEO4J_PASSWORD = "password123"
+DOCUMENT_NODE_LABEL = "Document"
+DOCUMENT_TEXT_PROPERTIES = ["text"]
+EMBEDDING_NODE_PROPERTY = "embedding"
+RELATIONSHIP_SEARCH_LIMIT = 50
+FULLTEXT_MATCH_LIMIT = 2
+ALLOWED_RELATIONSHIP_TYPES = {
+    "ASSOCIATED_WITH",
+    "CAUSES",
+    "DESCRIBES",
+    "DEVELOPED_BY",
+    "DISCOVERED_BY",
+    "FORMULATED_BY",
+    "IMPLIES",
+    "INCLUDES",
+    "PART_OF",
+    "RELATED_TO",
+}
+ENTITY_ALIASES = {
+    "نیوتن": "اسحاق نیوتن",
+    "لایب نیتس": "گاتفرید لایب‌نیتس",
+    "لایبنیتس": "گاتفرید لایب‌نیتس",
+    "لایب‌نیتس": "گاتفرید لایب‌نیتس",
+}
 
 # ── ۱. ساخت گراف ────────────────────────────────────────────────────────
 graph = Neo4jGraph(url=NEO4J_URL, username=NEO4J_USERNAME, password=NEO4J_PASSWORD)
@@ -83,15 +106,48 @@ graph.query("MATCH (n) WHERE NOT n:Document SET n:__Entity__")
 graph.query("CREATE FULLTEXT INDEX entity IF NOT EXISTS FOR (e:__Entity__) ON EACH [e.id]")
 
 # ── ۳. Unstructured retriever (vector + keyword) ─────────────────────────
+embedding_model = CustomGapGPTEmbeddingLangchain()
+
+
+def _backfill_document_embeddings(batch_size: int = 64) -> None:
+    while True:
+        rows = graph.query(
+            """
+            MATCH (d:Document)
+            WHERE d.text IS NOT NULL AND d.embedding IS NULL
+            RETURN elementId(d) AS element_id, d.text AS text
+            LIMIT $batch_size
+            """,
+            {"batch_size": batch_size},
+        )
+        if not rows:
+            break
+        embeddings = embedding_model.embed_documents([row["text"] for row in rows])
+        payload = [
+            {"element_id": row["element_id"], "embedding": embedding}
+            for row, embedding in zip(rows, embeddings)
+        ]
+        graph.query(
+            """
+            UNWIND $rows AS row
+            MATCH (d) WHERE elementId(d) = row.element_id
+            SET d.embedding = row.embedding
+            """,
+            {"rows": payload},
+        )
+
+
+_backfill_document_embeddings()
+
 vector_index = Neo4jVector.from_existing_graph(
-    embedding=CustomGapGPTEmbeddingLangchain(),
+    embedding=embedding_model,
     url=NEO4J_URL,
     username=NEO4J_USERNAME,
     password=NEO4J_PASSWORD,
     search_type=SearchType.HYBRID,
-    node_label="Document",
-    text_node_properties=["text"],
-    embedding_node_property="embedding",
+    node_label=DOCUMENT_NODE_LABEL,
+    text_node_properties=DOCUMENT_TEXT_PROPERTIES,
+    embedding_node_property=EMBEDDING_NODE_PROPERTY,
 )
 
 # ── ۴. Graph retriever (entity extraction + traversal) ───────────────────
@@ -109,24 +165,39 @@ def _fuzzy_query(text: str) -> str:
     return " AND ".join(f"{w}~2" for w in words)
 
 
+def _normalize_entity_name(name: str) -> str:
+    normalized = re.sub(r"\s+", " ", name).strip()
+    return ENTITY_ALIASES.get(normalized, normalized)
+
+
 def structured_retriever(question: str) -> str:
     entities: Entities = cast(Entities, entity_chain.invoke({"question": question}))
     results = []
-    for entity in entities.names:
+    normalized_entities = {
+        _normalize_entity_name(name) for name in entities.names if name.strip()
+    }
+    for entity in normalized_entities:
         rows = graph.query(
             """
-            CALL db.index.fulltext.queryNodes('entity', $query, {limit: 2})
+            CALL db.index.fulltext.queryNodes('entity', $query, {limit: $fulltext_limit})
             YIELD node, score
             CALL (node) {
-                MATCH (node)-[r:!MENTIONS]->(neighbor)
+                MATCH (node)-[r]->(neighbor)
+                WHERE type(r) IN $allowed_relationship_types
                 RETURN node.id + ' - ' + type(r) + ' -> ' + neighbor.id AS output
                 UNION
-                MATCH (node)<-[r:!MENTIONS]-(neighbor)
+                MATCH (node)<-[r]-(neighbor)
+                WHERE type(r) IN $allowed_relationship_types
                 RETURN neighbor.id + ' - ' + type(r) + ' -> ' + node.id AS output
             }
-            RETURN output LIMIT 50
+            RETURN output LIMIT $relationship_limit
             """,
-            {"query": _fuzzy_query(entity)},
+            {
+                "query": _fuzzy_query(entity),
+                "fulltext_limit": FULLTEXT_MATCH_LIMIT,
+                "relationship_limit": RELATIONSHIP_SEARCH_LIMIT,
+                "allowed_relationship_types": sorted(ALLOWED_RELATIONSHIP_TYPES),
+            },
         )
         results.extend(row["output"] for row in rows)
     return "\n".join(results)
